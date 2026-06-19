@@ -1,0 +1,4 @@
+# Publish only the dashboard page. Keep scripts, raw Gate dumps, logs local.
+*
+!.gitignore
+!index.html
